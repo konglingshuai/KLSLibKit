@@ -1,0 +1,6 @@
+framework module KLSLibKit {
+  umbrella header "KLSLibKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

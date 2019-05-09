@@ -8,6 +8,6 @@ target 'KLSLibKit_Example' do
   target 'KLSLibKit_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+  #  pod 'FBSnapshotTestCase'
   end
 end

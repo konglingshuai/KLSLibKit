@@ -1,0 +1,22 @@
+{
+  "name": "KLSLibKit",
+  "version": "0.1.0",
+  "summary": "A short description of KLSLibKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/konglshuai@163.com/KLSLibKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "konglshuai@163.com": "konglingshuai@01zhuanche.com"
+  },
+  "source": {
+    "git": "https://github.com/konglshuai@163.com/KLSLibKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KLSLibKit/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_KLSLibKit_Example {
+  umbrella header "Pods-KLSLibKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
